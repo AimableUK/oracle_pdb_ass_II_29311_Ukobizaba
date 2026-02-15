@@ -74,7 +74,7 @@ Oracle Enterprise Manager was configured and accessed successfully. The OEM dash
 
 ## Challenges Encountered
 
-No major issues were encountered during this assignment. All tasks were completed successfully by following Oracle documentation and course guidelines.
+No major issues were encountered during this assignment except for opening and logging in the OEM. All tasks were completed successfully by following Oracle documentation and course guidelines.
 
 ---
 
